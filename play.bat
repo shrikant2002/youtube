@@ -1,8 +1,8 @@
 rem saleem
 rem start chrome javascript:window.open('https://www.youtube.com/watch?v=yJTBQm91z20&autoplay=1').ready(function(){$('.ytp-large-play-button').trigger('click')});
 rem start chrome "" ""
-start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
-
+rem start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
+start chrome "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
 
 rem salman2
 rem start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY&list=PLtVtqA0Eil0NqDM1z59KOpWXv5Avt9vvN"
