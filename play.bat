@@ -1,6 +1,7 @@
 rem saleem
-start chrome "" "https://www.youtube.com/watch?v=yJTBQm91z20&autoplay=1"
-start chrome "" "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
+start chrome javascript:window.open('https://www.youtube.com/watch?v=yJTBQm91z20&autoplay=1').ready(Button.clickIt());
+rem start chrome "" ""
+rem start chrome "" "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
 
 
 rem salman2
