@@ -1,6 +1,6 @@
 rem saleem
-start chrome "" "https://www.youtube.com/watch?v=yJTBQm91z20&list=RDMM&autoplay=1&start_radio=1"
-start chrome "" "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1&list=PLtVtqA0Eil0NqDM1z59KOpWXv5Avt9vvN"
+start chrome "" "https://www.youtube.com/watch?v=yJTBQm91z20&autoplay=1"
+start chrome "" "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
 
 
 rem salman2
