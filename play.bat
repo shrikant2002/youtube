@@ -1,4 +1,3 @@
-cd /
 start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY"
 rem start chrome "" ""
 rem start firefox 
