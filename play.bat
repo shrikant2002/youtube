@@ -1,9 +1,7 @@
-rem saleem
-rem start chrome javascript:window.open('https://www.youtube.com/watch?v=yJTBQm91z20&autoplay=1').ready(function(){$('.ytp-large-play-button').trigger('click')});
+start C:\Program Files\Mozilla Firefox\firefox "https://www.youtube.com/watch?v=nHdJzeoESaY"
 rem start chrome "" ""
-rem start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
-start chrome "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
-
+rem start firefox 
+rem start chrome "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
 rem salman2
 rem start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY&list=PLtVtqA0Eil0NqDM1z59KOpWXv5Avt9vvN"
 rem start firefox "https://www.youtube.com/watch?v=yJTBQm91z20&list=RDMM&start_radio=1"
