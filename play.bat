@@ -1,4 +1,3 @@
-TIMEOUT 10
 rem all videos
 start firefox "https://www.youtube.com/watch?v=82-MDymVkps&list=PLAQHyp2rW3780t9P_DzZ_3V3i8BGwc7y9"
 
