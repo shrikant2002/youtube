@@ -1,3 +1,4 @@
+cd /
 start "C:\Program Files\Mozilla Firefox\firefox.exe" "https://www.youtube.com/watch?v=nHdJzeoESaY"
 rem start chrome "" ""
 rem start firefox 
