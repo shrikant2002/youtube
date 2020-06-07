@@ -1,4 +1,4 @@
-start C:\Program Files\Mozilla Firefox\firefox.exe "https://www.youtube.com/watch?v=nHdJzeoESaY"
+start "C:\Program Files\Mozilla Firefox\firefox.exe" "https://www.youtube.com/watch?v=nHdJzeoESaY"
 rem start chrome "" ""
 rem start firefox 
 rem start chrome "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
