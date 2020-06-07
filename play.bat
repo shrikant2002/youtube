@@ -1,8 +1,5 @@
-start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY"
-rem start chrome "" ""
-rem start firefox 
-rem start chrome "https://www.youtube.com/watch?v=nHdJzeoESaY&autoplay=1"
-rem salman2
-rem start firefox "https://www.youtube.com/watch?v=nHdJzeoESaY&list=PLtVtqA0Eil0NqDM1z59KOpWXv5Avt9vvN"
-rem start firefox "https://www.youtube.com/watch?v=yJTBQm91z20&list=RDMM&start_radio=1"
-              
+rem all videos
+start firefox "https://www.youtube.com/watch?v=82-MDymVkps&list=PLAQHyp2rW3780t9P_DzZ_3V3i8BGwc7y9"
+
+rem chrome os
+start firefox "https://www.youtube.com/watch?v=4gZYV0RWJQ8&list=PLAQHyp2rW379mp7tXvBnSBMKkBY5QfC3E"
