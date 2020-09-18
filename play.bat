@@ -1,5 +1,6 @@
 rem release
 start firefox "https://www.youtube.com/watch?v=5wfeIO61sSI&list=PLG5jakMh3U33gkroXEZ_R-8vhpCo6DudX"
+rem start firefox "https://www.youtube.com/watch?v=X3rBUx3RBko&list=PLAQHyp2rW379lHaxhw2bux6o4UPWWyneu"
 
 rem all videos
 rem start firefox "https://www.youtube.com/watch?v=82-MDymVkps&list=PLAQHyp2rW3780t9P_DzZ_3V3i8BGwc7y9"
